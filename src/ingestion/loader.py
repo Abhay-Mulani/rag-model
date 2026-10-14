@@ -10,7 +10,7 @@ def load_documents(path: str | Path) -> list[Document]:
         raise FileNotFoundError(f"Knowledge base not found: {file_path}")
     records = json.loads(file_path.read_text(encoding="utf-8"))
     if not isinstance(records, list):
-        raise ValueError("Knowledge base must contain a JSON list")
+        raise TypeError("Knowledge base must contain a JSON list")
     return [
         Document(
             document_id=str(record["id"]),

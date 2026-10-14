@@ -3,8 +3,8 @@ from fastapi import FastAPI, HTTPException
 from src.config import settings
 from src.feedback import FeedbackStore
 from src.generation import GeminiGenerator, GeminiUnavailableError, LocalGenerator
-from src.models import FeedbackRequest, QueryRequest, QueryResponse
 from src.graph.workflow import FinanceWorkflow
+from src.models import FeedbackRequest, QueryRequest, QueryResponse
 
 
 def create_app() -> FastAPI:

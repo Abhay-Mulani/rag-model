@@ -2,6 +2,7 @@ import time
 
 import requests
 
+
 class GeminiUnavailableError(RuntimeError):
     """Raised when Gemini cannot serve a request after transient retries."""
 
@@ -14,8 +15,10 @@ class LocalGenerator:
     ) -> tuple[str, float]:
         if not retrieved:
             return (
-                "I could not find relevant financial research. "
-                "Please verify the question and try again.",
+                (
+                    "I could not find relevant financial research. "
+                    "Please verify the question and try again."
+                ),
                 0.15,
             )
         best = retrieved[0]
@@ -56,8 +59,10 @@ class GeminiGenerator:
     ) -> tuple[str, float]:
         if not retrieved:
             return (
-                "I could not find relevant financial research. "
-                "Please verify the question and try again.",
+                (
+                    "I could not find relevant financial research. "
+                    "Please verify the question and try again."
+                ),
                 0.15,
             )
         context = "\n\n".join(
