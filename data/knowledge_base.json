@@ -1,0 +1,100 @@
+[
+  {
+    "id": "market-basics",
+    "title": "Market intelligence primer",
+    "category": "market",
+    "source": "finance-research.md#market-basics",
+    "content": "Market analysis should combine price trends, earnings, valuation, macroeconomic conditions, sector performance, and company-specific risks. Historical performance does not guarantee future returns."
+  },
+  {
+    "id": "equity-valuation",
+    "title": "Equity valuation guide",
+    "category": "analysis",
+    "source": "finance-research.md#equity-valuation",
+    "content": "Common equity valuation measures include price-to-earnings, price-to-sales, free-cash-flow yield, revenue growth, operating margin, and debt levels. Metrics should be compared with peers and the company's own history."
+  },
+  {
+    "id": "portfolio-diversification",
+    "title": "Portfolio diversification policy",
+    "category": "portfolio",
+    "source": "finance-research.md#portfolio-diversification",
+    "content": "A diversified portfolio spreads exposure across asset classes, sectors, issuers, and geographies. Allocation should reflect risk tolerance, investment horizon, liquidity needs, and loss capacity."
+  },
+  {
+    "id": "risk-management",
+    "title": "Investment risk management",
+    "category": "risk",
+    "source": "finance-research.md#risk-management",
+    "content": "Risk review should consider volatility, maximum drawdown, beta, correlation, concentration, liquidity, leverage, and downside scenarios. Position sizing and rebalancing can help manage concentration risk."
+  },
+  {
+    "id": "disclaimer",
+    "title": "Financial information disclaimer",
+    "category": "policy",
+    "source": "finance-research.md#disclaimer",
+    "content": "Outputs are educational decision support, not financial advice. Users should verify current information and consult a qualified financial professional before making investment decisions."
+  },
+  {
+    "id": "macro-indicators",
+    "title": "Macroeconomic indicators",
+    "category": "macro",
+    "source": "finance-research.md#macro-indicators",
+    "content": "Interest rates, inflation, currency movements, employment, liquidity, and economic growth can influence asset prices. A strong analysis should distinguish observed data from assumptions and explain how a change in each indicator could affect different sectors."
+  },
+  {
+    "id": "sector-analysis",
+    "title": "Sector analysis framework",
+    "category": "analysis",
+    "source": "finance-research.md#sector-analysis",
+    "content": "Sector analysis can compare demand drivers, competition, regulation, cyclicality, margins, capital intensity, and balance-sheet strength. Comparing a company with appropriate sector peers is more useful than relying on a single market-wide benchmark."
+  },
+  {
+    "id": "fixed-income",
+    "title": "Fixed-income risk overview",
+    "category": "risk",
+    "source": "finance-research.md#fixed-income",
+    "content": "Bond prices generally move inversely to yields. Duration measures sensitivity to interest-rate changes, while credit quality and spread risk reflect the issuer's ability to meet obligations. Investors should also consider reinvestment, liquidity, and inflation risk."
+  },
+  {
+    "id": "etf-basics",
+    "title": "ETF and index investing basics",
+    "category": "portfolio",
+    "source": "finance-research.md#etf-basics",
+    "content": "Index funds and exchange-traded funds can provide broad exposure, but investors should review the index methodology, expense ratio, tracking difference, liquidity, concentration, and underlying holdings. A low fee does not remove market or concentration risk."
+  },
+  {
+    "id": "technical-analysis",
+    "title": "Technical analysis guardrails",
+    "category": "analysis",
+    "source": "finance-research.md#technical-analysis",
+    "content": "Moving averages, momentum, support, resistance, and volume can describe market behavior, but technical signals are probabilistic and should not be treated as guarantees. They should be combined with fundamentals, risk limits, and a defined investment horizon."
+  },
+  {
+    "id": "risk-profiles",
+    "title": "Risk appetite profiles",
+    "category": "portfolio",
+    "source": "finance-research.md#risk-profiles",
+    "content": "A conservative profile generally prioritizes capital preservation and liquidity, a moderate profile balances growth and stability, and an aggressive profile accepts larger drawdowns for potentially higher long-term growth. The selected profile should match time horizon, income stability, liabilities, and loss capacity."
+  },
+  {
+    "id": "concentration-risk",
+    "title": "Concentration risk controls",
+    "category": "risk",
+    "source": "finance-research.md#concentration-risk",
+    "content": "Concentration risk can arise from one issuer, sector, geography, factor, or correlated group of holdings. Useful controls include position limits, sector limits, correlation checks, periodic rebalancing, and scenario analysis before adding to an already large exposure."
+  },
+  {
+    "id": "financial-statement-analysis",
+    "title": "Financial statement analysis",
+    "category": "analysis",
+    "source": "finance-research.md#financial-statement-analysis",
+    "content": "Financial statement review should examine revenue quality, profitability, cash conversion, working capital, leverage, interest coverage, and capital allocation. One quarter or one ratio is insufficient to establish a durable investment thesis."
+  },
+  {
+    "id": "scenario-analysis",
+    "title": "Scenario and sensitivity analysis",
+    "category": "risk",
+    "source": "finance-research.md#scenario-analysis",
+    "content": "Scenario analysis tests how an investment or portfolio may respond to changes such as slower growth, higher rates, weaker currency, falling margins, or a market drawdown. Results are illustrative, not forecasts, and should include assumptions and limitations."
+  }
+]
